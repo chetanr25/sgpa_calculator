@@ -13,8 +13,8 @@ SGPA Calculator is a Flutter mobile application that helps students calculate th
 
 ## Application in action
 
-[Working of app](DemoappWorking.mp4)
-[Project posted on linkedin](https://www.linkedin.com/posts/chetanr25_flutter-sgpacalculator-github-activity-7124068496119906304-KibS?utm_source=share&utm_medium=member_desktop)
+![Working of app](demo/Demo.mov)
+#### [Project post on linkedin](https://www.linkedin.com/posts/chetanr25_flutter-sgpacalculator-github-activity-7124068496119906304-KibS?utm_source=share&utm_medium=member_desktop)
 
 ## Getting Started
 
