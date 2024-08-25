@@ -8,6 +8,7 @@ SGPA Calculator is a Flutter mobile application that helps students calculate th
 - [Application in action](#demo)
 - [Installation](#installation)
 - [Try SGPA Calculate](#use)
+- [License](#license)
 
 ## Features <a name="features"></a>
 
@@ -31,13 +32,13 @@ To get started with SGPA Calculator, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/chetanr250/SGPA-calculator.git
+   git clone https://github.com/chetanr25/sgpa_calculator.git
    ```
 
 2. **Navigate to Project Directory:**
 
    ```bash
-   cd SGPA-calculator
+   cd sgpa_calculator
    ```
 
 3. **Run the Application:**
@@ -49,3 +50,7 @@ To get started with SGPA Calculator, follow these steps:
 
 You can try the SGPA Calculator application by installing the APK from the [Releases](demo/app-release.apk)
 or you can use our website [SGPA Calculator](https://calculate-your-sgpa.web.app)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
